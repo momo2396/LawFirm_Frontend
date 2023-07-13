@@ -1,13 +1,15 @@
 
 import './App.css'
+import ButtonOutline from './components/ButtonOutline'
+import ButtonPrimary from './components/ButtonPrimary'
+import ButtonWhite from './components/ButtonWhite'
 
 function App() {
   // const [count, setCount] = useState(0)
 
   return (
     <>
-      <p className='text-xl text-red-600 italic'>Hello Momo</p>
-      <button className="btn btn-secondary">Button</button>
+    <p>ada</p>
     </>
   )
 }
